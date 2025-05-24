@@ -47,3 +47,6 @@ For more details, please refer to the paper: [Infrared-LLaVA: Enhancing Understa
 - [Infrared-Images](https://huggingface.co/datasets/ThreeGold11602/syentic_images)
 - [Infrared-Pretrain-500k](https://huggingface.co/datasets/ThreeGold11602/infrared-pretrain-500k)
 - [Infrared-Instruct-12k](https://huggingface.co/datasets/ThreeGold11602/infrared-instruct-12k)
+
+##  Benchmark
+- [Infrared-Benchmark](https://huggingface.co/datasets/ThreeGold11602/infrared_benchmark)
